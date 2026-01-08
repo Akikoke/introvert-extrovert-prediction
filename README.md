@@ -1,5 +1,4 @@
-# Predicting Introverts vs Extroverts 
-(Kaggle Playground Series Season 5, Episode 7)
+# 😊Predicting Introverts vs Extroverts (Kaggle Playground Series Season 5, Episode 7)
 
 ## Project Overview
 This project aims to build a machine learning model that predicts whether an individual is an introvert or an extrovert based on behavioral features. 
